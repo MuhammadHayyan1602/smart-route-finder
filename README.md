@@ -38,5 +38,5 @@ It also includes:
 
 
 
-## 👨‍💻 Author
-Your Name
+👨‍💻 Author
+Muhammad Hayyan
